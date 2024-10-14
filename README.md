@@ -16,7 +16,7 @@ The model utilizes OHLCV (Open, High, Low, Close, Volume) data at 15-minute inte
 1. Environment Setup: Ensure all dependencies are installed. Run the setup cells.
 2. Data Preparation: Data is fetched using `yfinance`. Ensure a stable internet connection.
 3. Model Training: Adjust hyperparameters if necessary and train the model.
-4. **Evaluation and Backtesting: Review model performance and backtest results.
+4. Evaluation and Backtesting: Review model performance and backtest results.
 5. Exporting Results: Download the trained model and backtest results for further analysis.
 
  Dependencies
