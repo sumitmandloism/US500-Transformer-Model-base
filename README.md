@@ -2,7 +2,7 @@ ES Futures Return Prediction with Transformer Model
 
 Project Overview
 This project aims to predict the returns of E-mini S&P 500 (ES) futures using a Transformer-based deep learning model.
-The model utilizes OHLCV (Open, High, Low, Close, Volume) data at 15-minute intervals to forecast the next candle's return.
+The model utilizes OHLCV (Open, High, Low, Close, Volume) data to forecast the next candle's return.
 
  Steps Involved
 1. Data Collection and Preprocessing: Downloaded ES futures data, handled missing values, calculated returns, scaled features, and created sliding windows for time series data.
